@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="524.40942"
+   height="372.04724"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="postcard_logo_v2_3.svg"
+   inkscape:export-filename="/home/svet/Dropbox/falanster/design/postcards/postcard_logo_v2_3.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="217.06871"
+     inkscape:cy="175.62966"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       orientation="0,1"
+       position="279.81226,16.162441"
+       id="guide2999" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="26.263966,437.39605"
+       id="guide3001" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="495.9849,304.05592"
+       id="guide3003" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="252.85714,130"
+       id="guide2994" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-680.31491)">
+    <rect
+       style="fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect2985"
+       width="524.40942"
+       height="372.04724"
+       x="0"
+       y="680.31488" />
+    <text
+       xml:space="preserve"
+       style="font-size:20.41827583px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="386.91592"
+       y="922.36212"
+       id="text2995"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2997"
+         x="386.91592"
+         y="922.36212"
+         style="font-size:20.41827583px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#4d4d4d;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">falanster.by</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:100.26876068px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#d40000;fill-opacity:1;stroke:none;font-family:a_AlternaBrk;-inkscape-font-specification:a_AlternaBrk Semi-Bold"
+       x="26.263966"
+       y="895.29053"
+       id="text2988"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2990"
+         x="26.263966"
+         y="895.29053">ФАЛАНСТЭР</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:25.53344536000000176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#37c871;fill-opacity:1;stroke:none;font-family:Ubuntu Mono;-inkscape-font-specification:Ubuntu Mono"
+       x="26.263966"
+       y="922.60626"
+       id="text2990"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2992"
+         x="26.263966"
+         y="922.60626"
+         style="font-size:25px;fill:#37c871">Будзь сацыяльным!</tspan></text>
+  </g>
+</svg>
